@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/walouini/Parsing-JSON-File-NodeJS/issues"
   },
-  "homepage": "https://github.com/walouini/Parsing-JSON-File-NodeJS#readme"
+  "homepage": "https://github.com/walouini/Parsing-JSON-File-NodeJS#readme",
+  "dependencies": {
+    "stream-json": "^1.7.4"
+  }
 }
