@@ -1,0 +1,19 @@
+{
+  "name": "parsing-json-file-nodejs",
+  "version": "1.0.0",
+  "description": "parsing a very large JSON file with Node.js",
+  "main": "solution.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/walouini/Parsing-JSON-File-NodeJS.git"
+  },
+  "author": "walid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/walouini/Parsing-JSON-File-NodeJS/issues"
+  },
+  "homepage": "https://github.com/walouini/Parsing-JSON-File-NodeJS#readme"
+}
